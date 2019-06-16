@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+	<category>
+
+		<pattern>WHAT IS FOR LUNCH</pattern>
+
+		<template>
+
+			<random>
+
+				<li>My mother suggests </li>
+				<li>I would like to have</li>
+
+			</random>
+
+			<random>
+
+				<li>pizza. </li>
+				<li>noodle.</li>
+
+			</random>
+
+ 		</template>
+
+	</category>
+
+</aiml>
+

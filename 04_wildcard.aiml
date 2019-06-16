@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+	<category>
+
+		<pattern>I like *</pattern>
+
+		<template>Me too like <star /></template>
+
+	</category>
+
+</aiml>
+
